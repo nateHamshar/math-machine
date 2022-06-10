@@ -1,9 +1,9 @@
-import Home from './Home';
+import Machine from './Machine';
 
 function App() {
   return (
     <div className="app">
-        <Home />
+        <Machine />
     </div>
   );
 }
