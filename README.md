@@ -1,6 +1,7 @@
 # math-machine
 
-    My Goal for this project was to learn about states, hooks, as well as reinforce the JS that I have been learning.
+    My Goal for this project was to learn about states, hooks, 
+    as well as reinforce the JS that I have been learning.
     
   I really didn't put any effort into styling this app, considering it's not something that would ever be used. That being said, 
   I wanted to make sure the flow of data was easy to follow, and that the code itself was easy to understand. 
